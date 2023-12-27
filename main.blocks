@@ -10,4 +10,10 @@
         . . # . . 
         . # # # . 
         # . # . #
-        `</field></block></next></block></statement></block></statement></block><block type="pxt-on-start" id="qm.3m$p3jp+O_W=87`Kw" x="0" y="0"></block></xml>
+        `</field></block></next></block></statement></block></statement></block><block type="input_logo_event" id="+[CEs]XsocmexHx|9CSg" x="1226" y="-106"><field name="action">TouchButtonEvent.Pressed</field><statement name="HANDLER"><block type="device_show_leds" id="=|8u0NdPk#Py1K|1Q(:T"><field name="LEDS">`
+        . . . . . 
+        . . . . . 
+        . . . . . 
+        . . . . . 
+        . . . . .
+        `</field></block></statement></block><block type="pxt-on-start" id="qm.3m$p3jp+O_W=87`Kw" x="0" y="0"></block></xml>

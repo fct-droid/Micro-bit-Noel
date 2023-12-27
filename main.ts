@@ -92,6 +92,15 @@ input.onButtonPressed(Button.B, function () {
             `)
     }
 })
+input.onLogoEvent(TouchButtonEvent.Pressed, function () {
+    basic.showLeds(`
+        . . . . .
+        . . . . .
+        . . . . .
+        . . . . .
+        . . . . .
+        `)
+})
 basic.forever(function () {
 	
 })
